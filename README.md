@@ -4,26 +4,7 @@
 
 Meta Galactic Empire (MGE)
 
-Interplanetary Decentralized Autonamous Organization (DAO)
-
-SARS-CMV-2
-
-## Ships: Assets/Scripts/NFTController.cs
-
-Athena
-Demeter
-Calliope
-Chloe
-Electra
-Daphne
-Penolope
-Iris
-Hestia
-Aphrodite
-Calypso
-Hera
-Artemis
-DeJesus
+Interplanetary Decentralized Autonamous Organization (INDAO)
 
 ## Story
 
