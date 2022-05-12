@@ -1,5 +1,8 @@
 # INDAO OASIS 
 
+<img width="1840" alt="Screen_Shot" src="https://user-images.githubusercontent.com/19412160/168098154-6676a087-3848-4642-bc60-587460424501.png">
+
+
 ## Definitions
 
 Meta Galactic Empire (MGE)
